@@ -1,0 +1,165 @@
+head{
+  background-color: black;
+}
+
+body{
+  background-color: black;
+}
+
+.nav li{
+  display: inline-block;
+  padding-top: 15px;
+}
+
+a {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    padding: 7px;
+    list-style-type: none;
+  }
+
+  button{ 
+    color:gray;
+    spacing: 40px;
+    height: 100px;
+    width: 100px;
+    border-radius: 85%;
+    filter: drop-shadow(3px 3px 3px darkgrey);
+    cursor: pointer;
+  }
+
+  h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400px;
+    font-style: italic;
+    color: grey;
+    text-align: center;
+    word-spacing: 5px;
+    margin-left: 20px;
+  }
+
+  .sfw{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    color: grey;
+    text-align: left;
+    word-spacing: 5px;
+    border: 1px dotted grey;
+    margin-left: 20px;
+  }
+
+  .sans{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    color: grey;
+    text-align: left;
+    word-spacing: 5px;
+    border: 1px solid grey;
+    margin-left: 20px;
+  }
+
+  .styles{
+    border: 1px solid grey;
+    margin-left: 20px;
+  }
+
+  #sfw{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    color: grey;
+    text-align: left;
+    word-spacing: 5px;
+  }
+
+  .bold{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic, bold;
+    color: grey;
+    text-align: left;
+    word-spacing: 5px;
+  }
+
+  .prose{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    color: grey;
+    text-align: left;
+    word-spacing: 5px;
+  }
+
+  h6{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    color: grey;
+    text-align: left;
+    word-spacing: 5px;
+  }
+
+  .colors {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    color: grey;
+    text-align: left;
+    word-spacing: 5px;
+  }
+
+  .blue {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    color: rgba(0, 0, 100, 100%);
+    border: 1px solid rgba(0, 0, 100, 100%);
+    margin-left: 20px;
+  }
+
+  .red {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    color: rgb(100, 0, 0);
+    border: 1px solid rgb(100, 0, 0);
+    margin-left: 20px;
+  }
+
+  .green {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    color: rgb(0, 100, 5);
+    border: 1px solid rgb(0, 100, 5);
+    margin-left: 20px;
+  }
+
+  .yellow {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    color: rgb(189, 216, 36);
+    border: 1px solid rgb(189, 216, 36);
+    margin-left: 20px;
+  }
+
+  .purple {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    color: rgb(136, 4, 96);
+    border: 1px solid rgb(136, 4, 96);
+    margin-left: 20px;
+  }
+
+  .pink {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    color: rgb(212, 25, 72);
+    border: 1px solid rgb(212, 25, 72);
+    margin-left: 20px;
+  }
+
+  footer{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    color: grey;
+    background-color: black;
+    text-align: left;
+    word-spacing: 5px;
+    border: 1px solid grey;
+    margin-left: 20px;
+  }
